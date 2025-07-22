@@ -41,23 +41,11 @@
 
 ---
 
-### 📌 Featured Project: Ordarly
 
-> A modern POS system for restaurants, built with React, Node.js, MongoDB, and WebSocket.
-
-**Key Features:**
-- QR-based table ordering
-- Real-time kitchen display
-- Cloud or local hosting
-- Smart billing & daily reports
-
-🔗 **[Check out the repository](https://github.com/vishalmane01/ordarly)**
-
----
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/vishalmane01)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&labelColor=000)](https://your-portfolio-link)
 
 ---
