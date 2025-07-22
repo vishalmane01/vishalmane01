@@ -11,10 +11,10 @@
 
 - 🎓 I'm currently pursuing Engineering in Artificial Intelligence & Machine Learning  
 - 🛠️ I'm building **Ordarly** — a modern POS system for restaurants  
-- 🌱 Currently learning: **Machine Learning**, **React**, and **MongoDB**  
-- 💬 Ask me about anything related to full-stack dev, real-time apps, or AI  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/your-link)**  
-- ⚡ Fun fact: I love designing UIs inspired by Zomato & Swiggy!
+- 🌱 Currently learning: **Data Science**, **Machine Learning**and **Deep Learning**  
+- 💬 Ask me about anything related to MERN Stack, Python, Java, Ai & Ml  
+- 📫 How to reach me: **[LinkedIn]www.linkedin.com/in/vishallmane**  
+
 
 ---
 
